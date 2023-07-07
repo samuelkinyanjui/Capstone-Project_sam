@@ -64,21 +64,21 @@ speakers.forEach((speaker) => {
 });
 
 function ShowXicon() {
-    const iconMenu = document.getElementById('meneIcon');
-    const iconX = document.getElementById('Xicon');
-  
-    iconX.style.display = 'inline';
-    iconMenu.style.display = 'none';
-  }
-  
-  ShowXicon();
-  
-  function removeXiocn() {
-    const iconMenu = document.getElementById('meneIcon');
-    const iconX = document.getElementById('Xicon');
-  
-    iconX.style.display = 'none';
-    iconMenu.style.display = 'block';
-  }
-  
-  removeXiocn();
+  const iconMenu = document.getElementById('meneIcon');
+  const iconX = document.getElementById('Xicon');
+
+  iconX.style.display = 'inline';
+  iconMenu.style.display = 'none';
+}
+
+ShowXicon();
+
+function removeXiocn() {
+  const iconMenu = document.getElementById('meneIcon');
+  const iconX = document.getElementById('Xicon');
+
+  iconX.style.display = 'none';
+  iconMenu.style.display = 'block';
+}
+
+removeXiocn();
