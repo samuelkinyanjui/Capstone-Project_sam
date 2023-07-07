@@ -78,5 +78,4 @@ function removeXiocn() {
   iconX.style.display = 'none';
   iconMenu.style.display = 'block';
 }
-
 removeXiocn();
