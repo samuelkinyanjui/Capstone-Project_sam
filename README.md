@@ -48,7 +48,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 features
-- [Live Demo link](https://github.com/samuelkinyanjui/samuelcapstone.github.io)
+- [Live Demo link](https://samuelkinyanjui.github.io/Capstone-Project_sam/)
 
 ## Project Descriptive Video <a name="desc-video"></a>
 

@@ -177,6 +177,7 @@ body {
 .program-card {
   margin-right: 1rem;
   border-radius: 0;
+  height: 8rem;
 }
 
 .program-card:hover {
