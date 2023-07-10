@@ -48,7 +48,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 features
-- [Live Demo link](https://github.com/samuelkinyanjui/Capstone-Project_sam)
+- [Live Demo link](https://github.com/samuelkinyanjui/samuelcapstone.github.io)
 
 ## Project Descriptive Video <a name="desc-video"></a>
 
@@ -153,7 +153,7 @@ If you like this project, give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank from Microverse
+I would like to thank  Cindy Shin for authoring  the original design, 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
